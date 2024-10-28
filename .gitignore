@@ -12,3 +12,6 @@ lib
 
 # misc
 .DS_Store
+
+# storage
+./storage
