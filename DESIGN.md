@@ -14,6 +14,6 @@
 
 # P.S.
 
-Unfortunately, I couldn't implement all the structure required in the README, such as utils, components, using a UI library, and MobX.
+Unfortunately, I couldn't implement all the structure required in the README, such as utils, components, using a UI library, and MobX due to lack of time.
 However, I tried to show you my common skills without spending too much time on the details.
 This task was completed in 1 hour.
